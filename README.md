@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](http://kodluyoruz/org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Proje Gorseli]("C:\Users\nidak\OneDrive\Masaüstü\ilkrepo.jpg")
+![Proje Gorseli]("https://github.com/nidakus/kodluyoruzilkrepo/blob/main/ilkrepo.jpg")
 
 ## **Installation**
 
